@@ -1,0 +1,43 @@
+{
+  "name": "extension-pack",
+  "displayName": "Mike's Extension Pack",
+  "description": "Mike's working extension pack",
+  "version": "0.0.1",
+  "publisher": "mikehhodgson",
+  "author": {
+    "name": "mikehhodgson"
+  },
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "galleryBanner": {
+    "color": "#1A1A1A",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/mikehhodgson/extension-pack",
+  "bugs": {
+    "url": "https://github.com/mikehhodgson/extension-pack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikehhodgson/extension-pack.git"
+  },
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "DotJoshJohnson.xml",
+    "esbenp.prettier-vscode",
+    "justusadam.language-haskell",
+    "lfs.vscode-emacs-friendly",
+    "mikehhodgson.monochrome-dark",
+    "ms-vscode.PowerShell",
+    "PeterJausovec.vscode-docker",
+    "qinjia.seti-icons",
+    "redhat.vscode-yaml",
+    "ybaumes.highlight-trailing-white-spaces"
+  ]
+}

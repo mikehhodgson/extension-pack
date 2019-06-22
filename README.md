@@ -4,6 +4,8 @@
 - donjayamanne.githistory
 - DotJoshJohnson.xml
 - esbenp.prettier-vscode
+- formulahendry.auto-close-tag
+- formulahendry.auto-rename-tag
 - justusadam.language-haskell
 - lfs.vscode-emacs-friendly
 - mikehhodgson.monochrome-dark
